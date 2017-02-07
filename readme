@@ -1,0 +1,12 @@
+README.TXT
+
+SimpleYARF or Simple Yet Another Roleplay Framework 
+
+This project requries Visual Studio 2015 and the .NET 4.5 framework to run.
+
+
+This is ment to be a simple and easy to use framework for converting a bitmap, any 8, 16, 24 or 32 bit bitmap (or any image) 
+into a full runable play map (dungeon).
+
+As of today 6 Feburary 2017 this is in it's early pre-alpha stages. I plan on streaming these on twitch and maybe YouTube in 
+the near future. 

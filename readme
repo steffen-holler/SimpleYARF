@@ -5,8 +5,16 @@ SimpleYARF or Simple Yet Another Roleplay Framework
 This project requries Visual Studio 2015 and the .NET 4.5 framework to run.
 
 
-This is ment to be a simple and easy to use framework for converting a bitmap, any 8, 16, 24 or 32 bit bitmap (or any image) 
-into a full runable play map (dungeon).
+This is ment to be a simple and easy to use framework for converting a bitmap, 
+any 8, 16, 24 or 32 bit bitmap (or any rastered image) into a full runable 
+play map (dungeon).
 
-As of today 6 Feburary 2017 this is in it's early pre-alpha stages. I plan on streaming these on twitch and maybe YouTube in 
-the near future. 
+Project Log:
+6 Feburary 2017: this is in it's early pre-alpha stages. I plan on 
+streaming these on Twitch and maybe YouTube in the near future. 
+
+23 March 2017: Added Database table creation query for Simple YARF using mySQL
+With these, I plan on adding more later. These tables allow for a mix and 
+match of worlds, characters and rulesets for players games. I am also looking 
+into using Mono or another cross platform .NET Standard language to allow 
+Simple YARF to be more excessable to those with Linux, macOS, phones & tablets.
